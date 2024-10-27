@@ -41,6 +41,3 @@ A powerful video downloader that allows users to download videos from popular pl
 
 ## License
 MIT License
-
-## Contact
-Created by [Satyam Kumar](https://github.com/yourusername)
